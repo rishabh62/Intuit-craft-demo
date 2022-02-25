@@ -1,0 +1,16 @@
+.card {
+  background-color: beige;
+  padding: 1rem;
+  border: 1px solid black;
+  margin-bottom: 0.5rem;
+  box-shadow: 0.2rem 0.2rem 0.5rem gray;
+}
+
+.title {
+  font-size: x-large;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}

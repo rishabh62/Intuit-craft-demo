@@ -1,0 +1,9 @@
+.button {
+  padding: 1rem;
+  font-size: 1rem;
+  box-shadow: 0.2rem 0.2rem 0.5rem gray;
+}
+
+.button:active {
+  box-shadow: none;
+}

@@ -1,0 +1,26 @@
+.roomSelection {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border: 1px solid black;
+  margin: 1rem;
+  background-color: lightgray;
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  .roomSelection {
+    width: 50%;
+  }
+}
+
+.radioButton {
+  margin: 0.5rem;
+}
+
+.fieldset {
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
